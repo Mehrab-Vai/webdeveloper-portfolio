@@ -102,11 +102,23 @@ main{
     padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
+    margin-top: 130px;
 }
 .about-info-container{
     display: flex;
     justify-content: space-around;
 }
 .about-info{
+    text-align: center;
+}
+/* what i do section */
+#what-i-do-description{
+    padding: 30px 150px;
+}
+.skills-container{
+    display: flex;
+    justify-content: space-around;
+}
+.skill{
     text-align: center;
 }
